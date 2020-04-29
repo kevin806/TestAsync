@@ -13,3 +13,14 @@ d:\Users\Kevin\Desktop\TestConApp\TestConApp\obj\Debug\netcoreapp3.1\TestConApp.
 d:\Users\Kevin\Desktop\TestConApp\TestConApp\obj\Debug\netcoreapp3.1\TestConApp.AssemblyInfo.cs
 d:\Users\Kevin\Desktop\TestConApp\TestConApp\obj\Debug\netcoreapp3.1\TestConApp.dll
 d:\Users\Kevin\Desktop\TestConApp\TestConApp\obj\Debug\netcoreapp3.1\TestConApp.pdb
+F:\Workspace\GitHub94\TestAsync\TestConApp\bin\Debug\netcoreapp3.1\TestConApp.exe
+F:\Workspace\GitHub94\TestAsync\TestConApp\bin\Debug\netcoreapp3.1\TestConApp.deps.json
+F:\Workspace\GitHub94\TestAsync\TestConApp\bin\Debug\netcoreapp3.1\TestConApp.runtimeconfig.json
+F:\Workspace\GitHub94\TestAsync\TestConApp\bin\Debug\netcoreapp3.1\TestConApp.runtimeconfig.dev.json
+F:\Workspace\GitHub94\TestAsync\TestConApp\bin\Debug\netcoreapp3.1\TestConApp.dll
+F:\Workspace\GitHub94\TestAsync\TestConApp\bin\Debug\netcoreapp3.1\TestConApp.pdb
+F:\Workspace\GitHub94\TestAsync\TestConApp\obj\Debug\netcoreapp3.1\TestConApp.csprojAssemblyReference.cache
+F:\Workspace\GitHub94\TestAsync\TestConApp\obj\Debug\netcoreapp3.1\TestConApp.AssemblyInfoInputs.cache
+F:\Workspace\GitHub94\TestAsync\TestConApp\obj\Debug\netcoreapp3.1\TestConApp.AssemblyInfo.cs
+F:\Workspace\GitHub94\TestAsync\TestConApp\obj\Debug\netcoreapp3.1\TestConApp.dll
+F:\Workspace\GitHub94\TestAsync\TestConApp\obj\Debug\netcoreapp3.1\TestConApp.pdb
