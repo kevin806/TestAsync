@@ -13,7 +13,7 @@ namespace TestConApp
         /// 获取网页
         /// </summary>
         /// <returns></returns>
-        public async Task GetWeb()
+        public async Task GetWebAsync()
         {
             var helper = new HttpHelper();
             Log.Debug("打开浏览器，线程Id为：{0}", Thread.CurrentThread.ManagedThreadId.ToString());
@@ -30,7 +30,7 @@ namespace TestConApp
         /// 获取网页2
         /// </summary>
         /// <returns></returns>
-        public async Task GetWeb2()
+        public async Task GetWeb2Async()
         {
             var helper = new HttpHelper();
             Log.Debug("打开浏览器，线程Id为：{0}", Thread.CurrentThread.ManagedThreadId.ToString());

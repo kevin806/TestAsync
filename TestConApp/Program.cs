@@ -8,7 +8,7 @@ namespace TestConApp
 {
     class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             Process processes = Process.GetCurrentProcess();
             Log.Debug("Hello World! ，当前进程Id为{0}, 线程Id为：{1}", processes.Id.ToString(), Thread.CurrentThread.ManagedThreadId.ToString());
@@ -43,8 +43,8 @@ namespace TestConApp
 
 
             var fetch = new FetchWeb();
-            //fetch.GetWeb();
-            fetch.GetWeb2();
+            //fetch.GetWebAsync();
+            fetch.GetWeb2Async();
 
             Log.Debug("按任意键结束! ，线程Id为：{0}", Thread.CurrentThread.ManagedThreadId.ToString());
             Console.ReadKey();
